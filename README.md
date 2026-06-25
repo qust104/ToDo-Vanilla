@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-[🔗 **Live Demo**](/) · [🛠 Технологии](#-технологии) · [✨ Возможности](#-ключевые-возможности)
+[🔗 **Live Demo**](https://qust104.github.io/ToDo-Vanilla/) · [🛠 Технологии](#-технологии) · [✨ Возможности](#-ключевые-возможности)
 
 </div>
 
